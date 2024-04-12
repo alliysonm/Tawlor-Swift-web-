@@ -34,3 +34,24 @@ div {
     margin: 20px 50px;
     line-height: 30px;
 }
+
+.menu {
+    width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: rgba(0, 0, 0, .8);
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a {
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.menu li a:hover {
+    background-color: #504d4d;
+}
