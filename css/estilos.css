@@ -1,0 +1,35 @@
+body {
+    background: url(../imagenes/eras.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    color: #ffffff;
+}
+
+h2, h3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration:overline;
+    color: #000000;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 5px 5px 5px #39393b;
+    color: #000000;
+}
+
+div {
+    background: rgba(0, 0, 0, .8);
+    text-align: center;
+    padding: 30px;
+    border-radius: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 20px 50px;
+    line-height: 30px;
+}
