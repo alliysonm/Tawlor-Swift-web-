@@ -10,7 +10,7 @@ h2, h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration:overline;
     color: #000000;
-    text-shadow: #ece8e8;
+    text-shadow: 5px 5px 5px #ece8e8;
 }
 
 h3 {
@@ -26,7 +26,7 @@ h1 {
 }
 
 div {
-    background: rgba(0, 0, 0, .8);
+    background: rgba(24, 24, 24, 0.8);
     text-align: center;
     padding: 30px;
     border-radius: 50px;
@@ -50,6 +50,8 @@ div {
 .menu li a {
     padding: 10px 20px;
     display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .menu li a:hover {
