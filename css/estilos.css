@@ -1,5 +1,5 @@
 body {
-    background: #eceaea;
+    background: #ffffff;
     color: #ffffff;
 }
 
@@ -35,39 +35,32 @@ header nav ul li a {
     width: 68.5%;
     margin-right: 1.5%;
     float: left;
+    background-color: rgba(147, 153, 164, 0.8);
 }
 
 .main .articles article {
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #39393b;
+    color: #000000;
 }
 
 aside {
     width: 30%;
-    background: #39393b;
+    background: #9399A4;
     float: left;
     padding: 20px;
     box-sizing: border-box;
 }
 
-h2, h3{
-    text-align: center;
+h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-decoration:overline;
     color: #000000;
-    text-shadow: 5px 5px 5px #ece8e8;
 }
 
-h3 {
-    font-size: 25px;
-}
 
 h1 {
-    text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
-    text-shadow: 5px 5px 5px #39393b;
     color: #000000;
 }
 
